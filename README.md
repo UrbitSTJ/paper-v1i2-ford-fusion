@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# Ford Fusion
+
+Ted Blackman ~rovnys-ricfer. *Urbit Systems Technical Journal* 1(2), 2024.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389634.svg)](https://doi.org/10.5281/zenodo.24389634) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v01-i02/ford-fusion)
+<!-- /ustj-doi -->
+
 # USTJ Template
 
 The template for USTJ LaTeX submissions.  You should *import* this repo, not *fork* it.
